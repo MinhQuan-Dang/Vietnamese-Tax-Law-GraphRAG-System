@@ -1,0 +1,120 @@
+{"id": "R-G1-001", "set": "real", "group": "G1", "q": "Cá nhân cư trú là gì và điều kiện xác định cá nhân cư trú trong năm tính thuế?"}
+{"id": "R-G1-002", "set": "real", "group": "G1", "q": "Thu nhập từ tiền lương, tiền công có bắt buộc khấu trừ thuế TNCN không? Khi nào được miễn khấu trừ?"}
+{"id": "R-G1-003", "set": "real", "group": "G1", "q": "Giảm trừ gia cảnh gồm những khoản nào và điều kiện để đăng ký người phụ thuộc?"}
+{"id": "R-G1-004", "set": "real", "group": "G1", "q": "Các khoản phụ cấp/ trợ cấp nào thường được miễn thuế TNCN và có điều kiện kèm theo không?"}
+{"id": "R-G1-005", "set": "real", "group": "G1", "q": "Khi nào cá nhân phải tự quyết toán thuế TNCN và khi nào được ủy quyền quyết toán?"}
+{"id": "R-G1-006", "set": "real", "group": "G1", "q": "Hợp đồng lao động dưới 3 tháng hoặc không ký HĐLĐ thì khấu trừ TNCN như thế nào?"}
+{"id": "R-G1-007", "set": "real", "group": "G1", "q": "Thu nhập từ cho thuê nhà tính thuế TNCN theo cách nào và có ngưỡng doanh thu miễn thuế không?"}
+{"id": "R-G1-008", "set": "real", "group": "G1", "q": "Thu nhập từ chuyển nhượng bất động sản có được miễn TNCN trong trường hợp nào?"}
+{"id": "R-G1-009", "set": "real", "group": "G1", "q": "Thu nhập từ chuyển nhượng chứng khoán tính thuế TNCN ra sao (thuế suất, căn cứ tính)?"}
+{"id": "R-G1-010", "set": "real", "group": "G1", "q": "Cá nhân không cư trú chịu thuế TNCN khác gì so với cá nhân cư trú?"}
+{"id": "R-G1-011", "set": "real", "group": "G1", "q": "Doanh nghiệp được tính chi phí được trừ khi xác định thu nhập chịu thuế TNDN cần điều kiện gì?"}
+{"id": "R-G1-012", "set": "real", "group": "G1", "q": "Các khoản chi không được trừ khi tính thuế TNDN thường gặp là gì?"}
+{"id": "R-G1-013", "set": "real", "group": "G1", "q": "Trích khấu hao TSCĐ được tính vào chi phí được trừ cần điều kiện nào?"}
+{"id": "R-G1-014", "set": "real", "group": "G1", "q": "Chuyển lỗ trong thuế TNDN thực hiện như thế nào và thời hạn chuyển lỗ bao lâu?"}
+{"id": "R-G1-015", "set": "real", "group": "G1", "q": "Tạm nộp thuế TNDN theo quý có yêu cầu gì và khi nào phải nộp bổ sung?"}
+{"id": "R-G2-001", "set": "real", "group": "G2", "q": "Các bước quyết toán thuế TNCN cuối năm cho người lao động gồm những gì (hồ sơ, thời hạn)?"}
+{"id": "R-G2-002", "set": "real", "group": "G2", "q": "Doanh nghiệp trả thu nhập cho cá nhân thì trách nhiệm kê khai/khấu trừ/nộp thay TNCN như thế nào?"}
+{"id": "R-G2-003", "set": "real", "group": "G2", "q": "Thuế TNDN đối với hoạt động chuyển nhượng vốn được xác định và kê khai thế nào?"}
+{"id": "R-G2-004", "set": "real", "group": "G2", "q": "Thuế TNDN đối với hoạt động chuyển nhượng bất động sản của doanh nghiệp có điểm gì cần lưu ý?"}
+{"id": "R-G2-005", "set": "real", "group": "G2", "q": "Chi phí lãi vay có bị khống chế khi tính thuế TNDN không? Cơ sở và cách xác định phần bị khống chế?"}
+{"id": "R-G2-006", "set": "real", "group": "G2", "q": "Chi phí quảng cáo/khuyến mại có còn bị khống chế khi tính thuế TNDN không? Nếu có thì theo quy định nào?"}
+{"id": "R-G2-007", "set": "real", "group": "G2", "q": "Doanh nghiệp có ưu đãi thuế TNDN (ngành/địa bàn) thì điều kiện và thời gian ưu đãi xác định thế nào?"}
+{"id": "R-G2-008", "set": "real", "group": "G2", "q": "Thu nhập miễn thuế TNDN gồm những nhóm nào và điều kiện áp dụng?"}
+{"id": "R-G2-009", "set": "real", "group": "G2", "q": "Thuế suất TNDN phổ thông hiện hành và các trường hợp áp dụng thuế suất khác?"}
+{"id": "R-G2-010", "set": "real", "group": "G2", "q": "Thuế TNCN đối với thu nhập từ đầu tư vốn (cổ tức/lãi) được tính như thế nào?"}
+{"id": "R-G2-011", "set": "real", "group": "G2", "q": "Thuế TNCN đối với thu nhập từ bản quyền/nhượng quyền thương mại tính ra sao?"}
+{"id": "R-G2-012", "set": "real", "group": "G2", "q": "Khoản chi phúc lợi cho người lao động (hiếu hỉ, nghỉ mát…) có được tính chi phí được trừ TNDN không?"}
+{"id": "R-G2-013", "set": "real", "group": "G2", "q": "Khoản tài trợ, ủng hộ (giáo dục, y tế, thiên tai…) có được trừ khi tính thuế TNDN không?"}
+{"id": "R-G2-014", "set": "real", "group": "G2", "q": "Thuế TNCN đối với cá nhân làm việc tại Việt Nam nhưng nhận lương từ nước ngoài xử lý thế nào?"}
+{"id": "R-G2-015", "set": "real", "group": "G2", "q": "Doanh nghiệp có doanh thu ngoại tệ thì xác định doanh thu/chi phí tính thuế TNDN theo tỷ giá nào?"}
+{"id": "R-G3-001", "set": "real", "group": "G3", "q": "Phân biệt 'thu nhập chịu thuế' và 'thu nhập tính thuế' trong thuế TNCN."}
+{"id": "R-G3-002", "set": "real", "group": "G3", "q": "Phân biệt cá nhân cư trú và không cư trú về cách tính thuế TNCN."}
+{"id": "R-G3-003", "set": "real", "group": "G3", "q": "So sánh khấu trừ thuế tại nguồn và tự kê khai quyết toán trong TNCN."}
+{"id": "R-G3-004", "set": "real", "group": "G3", "q": "So sánh thu nhập từ tiền lương tiền công với thu nhập từ kinh doanh (về cách tính TNCN)."}
+{"id": "R-G3-005", "set": "real", "group": "G3", "q": "So sánh thuế suất lũy tiến từng phần và thuế suất toàn phần trong TNCN."}
+{"id": "R-G3-006", "set": "real", "group": "G3", "q": "Phân biệt 'chi phí được trừ' và 'chi phí không được trừ' khi tính thuế TNDN."}
+{"id": "R-G3-007", "set": "real", "group": "G3", "q": "So sánh ưu đãi thuế TNDN theo địa bàn và theo lĩnh vực/ngành nghề."}
+{"id": "R-G3-008", "set": "real", "group": "G3", "q": "Phân biệt 'thu nhập miễn thuế TNDN' và 'thu nhập không chịu thuế' (nếu có)."}
+{"id": "R-G3-009", "set": "real", "group": "G3", "q": "So sánh chuyển lỗ và bù trừ lỗ trong thuế TNDN."}
+{"id": "R-G3-010", "set": "real", "group": "G3", "q": "So sánh cách tính thuế TNDN đối với hoạt động sản xuất kinh doanh và hoạt động chuyển nhượng bất động sản."}
+{"id": "R-G3-011", "set": "real", "group": "G3", "q": "So sánh thuế TNCN từ chuyển nhượng bất động sản và thuế TNDN từ chuyển nhượng bất động sản."}
+{"id": "R-G3-012", "set": "real", "group": "G3", "q": "Phân biệt doanh thu tính thuế và thu nhập tính thuế trong TNDN."}
+{"id": "R-G3-013", "set": "real", "group": "G3", "q": "So sánh chi phí lãi vay bị khống chế và chi phí lãi vay được trừ trong TNDN."}
+{"id": "R-G3-014", "set": "real", "group": "G3", "q": "So sánh TNCN với thuế TNDN về đối tượng nộp thuế và căn cứ tính thuế."}
+{"id": "R-G3-015", "set": "real", "group": "G3", "q": "So sánh khoản giảm trừ gia cảnh và các khoản bảo hiểm bắt buộc trong tính TNCN."}
+{"id": "R-G4-001", "set": "real", "group": "G4", "q": "Quy định về ủy quyền quyết toán thuế TNCN nằm ở văn bản nào?"}
+{"id": "R-G4-002", "set": "real", "group": "G4", "q": "Căn cứ pháp lý quy định mức giảm trừ gia cảnh hiện hành là văn bản nào?"}
+{"id": "R-G4-003", "set": "real", "group": "G4", "q": "Quy định khấu trừ 10% đối với hợp đồng dưới 3 tháng nằm ở văn bản nào?"}
+{"id": "R-G4-004", "set": "real", "group": "G4", "q": "Căn cứ pháp lý về miễn thuế TNCN khi chuyển nhượng nhà ở duy nhất là gì?"}
+{"id": "R-G4-005", "set": "real", "group": "G4", "q": "Quy định về thuế suất TNDN phổ thông nằm ở văn bản nào?"}
+{"id": "R-G4-006", "set": "real", "group": "G4", "q": "Quy định về điều kiện chi phí được trừ khi tính thuế TNDN nằm ở thông tư/nghị định nào?"}
+{"id": "R-G4-007", "set": "real", "group": "G4", "q": "Căn cứ pháp lý về thời hạn chuyển lỗ TNDN là văn bản nào?"}
+{"id": "R-G4-008", "set": "real", "group": "G4", "q": "Quy định về khấu hao TSCĐ hợp lệ để được trừ TNDN nằm ở văn bản nào?"}
+{"id": "R-G4-009", "set": "real", "group": "G4", "q": "Căn cứ pháp lý về thu nhập miễn thuế TNDN (nhóm thu nhập miễn) nằm ở văn bản nào?"}
+{"id": "R-G4-010", "set": "real", "group": "G4", "q": "Quy định về chi phúc lợi cho người lao động được trừ TNDN nằm ở văn bản nào?"}
+{"id": "R-G4-011", "set": "real", "group": "G4", "q": "Quy định về thuế TNCN với cá nhân không cư trú nằm ở văn bản nào?"}
+{"id": "R-G4-012", "set": "real", "group": "G4", "q": "Căn cứ pháp lý về thuế TNCN đối với chuyển nhượng chứng khoán là văn bản nào?"}
+{"id": "R-G4-013", "set": "real", "group": "G4", "q": "Quy định về kê khai tạm nộp thuế TNDN theo quý nằm ở văn bản nào?"}
+{"id": "R-G4-014", "set": "real", "group": "G4", "q": "Căn cứ pháp lý về thuế TNDN đối với chuyển nhượng vốn là văn bản nào?"}
+{"id": "R-G4-015", "set": "real", "group": "G4", "q": "Quy định về trách nhiệm khấu trừ/kê khai của tổ chức trả thu nhập (TNCN) nằm ở văn bản nào?"}
+{"id": "S-G1-001", "set": "stress", "group": "G1", "q": "Một cá nhân làm 2 nơi, đã khấu trừ tại cả 2 nơi, có người phụ thuộc đăng ký ở nơi A nhưng giữa năm đổi nơi làm. Điều kiện để ủy quyền quyết toán và xử lý giảm trừ gia cảnh thế nào?"}
+{"id": "S-G1-002", "set": "stress", "group": "G1", "q": "Cá nhân vừa có lương vừa có cho thuê nhà: trường hợp nào phải tự quyết toán TNCN, trường hợp nào không? Nêu các ngoại lệ thường gặp."}
+{"id": "S-G1-003", "set": "stress", "group": "G1", "q": "Thu nhập từ làm thêm giờ/đêm: phần nào được miễn thuế, điều kiện miễn là gì, và cần chứng từ gì để chứng minh?"}
+{"id": "S-G1-004", "set": "stress", "group": "G1", "q": "Chuyển nhượng nhà ở duy nhất nhưng đồng sở hữu với vợ/chồng: điều kiện miễn thuế TNCN áp dụng thế nào và ngoại lệ nào có thể làm mất miễn thuế?"}
+{"id": "S-G1-005", "set": "stress", "group": "G1", "q": "Cá nhân không cư trú làm việc ngắn ngày tại Việt Nam và nhận lương từ công ty mẹ ở nước ngoài: xác định đối tượng nộp, thu nhập chịu thuế, và trách nhiệm khấu trừ của bên chi trả ra sao?"}
+{"id": "S-G1-006", "set": "stress", "group": "G1", "q": "Doanh nghiệp có khoản chi tiếp khách lớn và chi bằng tiền mặt: điều kiện để được trừ TNDN là gì, và trường hợp nào bị loại?"}
+{"id": "S-G1-007", "set": "stress", "group": "G1", "q": "Khoản chi phúc lợi cho nhân viên vượt một ngưỡng nhất định: phần vượt có được trừ TNDN không và căn cứ xác định ngưỡng là gì?"}
+{"id": "S-G1-008", "set": "stress", "group": "G1", "q": "Doanh nghiệp có khoản lãi vay lớn từ bên liên kết: cách xác định phần chi phí lãi vay bị khống chế và ngoại lệ (nếu có) như thế nào?"}
+{"id": "S-G1-009", "set": "stress", "group": "G1", "q": "Khoản tài trợ cho giáo dục nhưng chi qua đơn vị trung gian: điều kiện để được trừ khi tính TNDN là gì và những sai sót nào khiến bị loại chi phí?"}
+{"id": "S-G1-010", "set": "stress", "group": "G1", "q": "Cá nhân nhận thưởng cổ phiếu/ESOP: phân loại thu nhập chịu thuế TNCN thuộc nhóm nào, thời điểm tính thuế và cách khấu trừ thế nào?"}
+{"id": "S-G1-011", "set": "stress", "group": "G1", "q": "Doanh nghiệp trích khấu hao TSCĐ nhưng TSCĐ chưa đưa vào sử dụng: chi phí khấu hao có được trừ không và ngoại lệ nào cho phép?"}
+{"id": "S-G1-012", "set": "stress", "group": "G1", "q": "Doanh nghiệp có khoản chi trả lương nhưng chưa thanh toán: thời điểm ghi nhận chi phí được trừ TNDN thế nào và điều kiện chứng từ ra sao?"}
+{"id": "S-G1-013", "set": "stress", "group": "G1", "q": "Cá nhân chuyển nhượng chứng khoán lỗ: có được bù trừ lỗ không? Nếu không thì tại sao, và căn cứ thuế suất/cách tính là gì?"}
+{"id": "S-G1-014", "set": "stress", "group": "G1", "q": "Cá nhân có thu nhập vãng lai đã khấu trừ 10% nhưng tổng thu nhập dưới ngưỡng: điều kiện hoàn thuế/không quyết toán là gì?"}
+{"id": "S-G1-015", "set": "stress", "group": "G1", "q": "Doanh nghiệp có lỗ năm nay và lãi năm sau: cách chuyển lỗ, thứ tự bù trừ, và giới hạn thời gian áp dụng ra sao?"}
+{"id": "S-G2-001", "set": "stress", "group": "G2", "q": "Tổng hợp đầy đủ điều kiện chi phí được trừ TNDN (hóa đơn, thanh toán không dùng tiền mặt, liên quan SXKD…) và chỉ ra những trường hợp ngoại lệ thường gây nhầm lẫn."}
+{"id": "S-G2-002", "set": "stress", "group": "G2", "q": "Một khoản chi vừa có tính chất phúc lợi vừa có tính chất tiền lương: khi tính TNDN phân loại thế nào để không bị loại chi phí? Nêu căn cứ theo quy định."}
+{"id": "S-G2-003", "set": "stress", "group": "G2", "q": "Ưu đãi TNDN: kết hợp điều kiện dự án đầu tư mới + địa bàn ưu đãi + ngành nghề ưu đãi + doanh thu từ hoạt động ưu đãi. Trình bày cách xác định phần thu nhập được ưu đãi."}
+{"id": "S-G2-004", "set": "stress", "group": "G2", "q": "Thuế TNCN cho người nước ngoài: tổng hợp quy tắc xác định cư trú + kỳ tính thuế + phân bổ thu nhập toàn cầu (nếu có) + trách nhiệm khai nộp."}
+{"id": "S-G2-005", "set": "stress", "group": "G2", "q": "Trường hợp có thu nhập từ nhiều nguồn: lương + kinh doanh + đầu tư vốn. Trình bày cách phân loại từng khoản theo luật và cách kê khai/khấu trừ tương ứng."}
+{"id": "S-G2-006", "set": "stress", "group": "G2", "q": "Doanh nghiệp chuyển nhượng vốn và có chi phí liên quan: tổng hợp cách xác định thu nhập tính thuế, chi phí được trừ, hồ sơ kê khai và thời điểm kê khai."}
+{"id": "S-G2-007", "set": "stress", "group": "G2", "q": "Doanh nghiệp có hoạt động chuyển nhượng bất động sản và hoạt động SXKD khác: trình bày yêu cầu hạch toán riêng và cách bù trừ lãi/lỗ giữa các hoạt động (nếu được phép)."}
+{"id": "S-G2-008", "set": "stress", "group": "G2", "q": "Chi phí lãi vay bị khống chế: tổng hợp nguyên tắc xác định EBITDA theo quy định và cách xử lý phần chi phí lãi vay không được trừ chuyển kỳ sau."}
+{"id": "S-G2-009", "set": "stress", "group": "G2", "q": "Thu nhập miễn thuế TNDN: tổng hợp nhóm thu nhập miễn + điều kiện kèm theo + trường hợp không được miễn dù thuộc nhóm."}
+{"id": "S-G2-010", "set": "stress", "group": "G2", "q": "Khấu trừ TNCN 10% đối với vãng lai: tổng hợp điều kiện áp dụng, trường hợp được làm cam kết, và trách nhiệm lưu hồ sơ của tổ chức chi trả."}
+{"id": "S-G2-011", "set": "stress", "group": "G2", "q": "Chứng từ thanh toán không dùng tiền mặt: tổng hợp trường hợp bắt buộc, ngưỡng áp dụng, ngoại lệ và hệ quả nếu thanh toán sai."}
+{"id": "S-G2-012", "set": "stress", "group": "G2", "q": "Trích lập dự phòng (nợ phải thu khó đòi/hàng tồn kho): điều kiện được trừ TNDN, hồ sơ chứng minh và sai sót thường gặp."}
+{"id": "S-G2-013", "set": "stress", "group": "G2", "q": "Thuế TNCN đối với chuyển nhượng bất động sản: tổng hợp quy tắc tính thuế, trường hợp miễn thuế, và hồ sơ chứng minh nhà ở duy nhất."}
+{"id": "S-G2-014", "set": "stress", "group": "G2", "q": "Tạm nộp thuế TNDN theo quý và quyết toán năm: tổng hợp nguyên tắc xác định số tạm nộp, chênh lệch cho phép và chế tài nếu thiếu."}
+{"id": "S-G2-015", "set": "stress", "group": "G2", "q": "Chi phí tiền lương thưởng: tổng hợp điều kiện để được trừ TNDN (quy chế, hợp đồng, chứng từ chi trả) và cách xử lý khoản thưởng chi sau."}
+{"id": "S-G3-001", "set": "stress", "group": "G3", "q": "Đối chiếu 'khấu trừ tại nguồn' trong TNCN với 'tạm nộp theo quý' trong TNDN: mục đích, chủ thể thực hiện, thời điểm và rủi ro sai sót."}
+{"id": "S-G3-002", "set": "stress", "group": "G3", "q": "So sánh cách tính thuế TNCN cho cá nhân cư trú (lũy tiến) với cá nhân không cư trú (toàn phần): ưu/nhược và tình huống dễ áp dụng nhầm."}
+{"id": "S-G3-003", "set": "stress", "group": "G3", "q": "So sánh 'thu nhập chịu thuế' và 'thu nhập tính thuế' trong TNCN và chỉ ra các khoản điều chỉnh chính giữa hai khái niệm."}
+{"id": "S-G3-004", "set": "stress", "group": "G3", "q": "So sánh 'chi phí được trừ' TNDN với 'khoản giảm trừ' TNCN: bản chất, điều kiện và chứng từ."}
+{"id": "S-G3-005", "set": "stress", "group": "G3", "q": "So sánh thuế TNDN hoạt động chuyển nhượng vốn vs chuyển nhượng bất động sản: căn cứ tính, kê khai, và nghĩa vụ hạch toán riêng."}
+{"id": "S-G3-006", "set": "stress", "group": "G3", "q": "Đối chiếu thuế TNCN cho thuê tài sản với thuế TNDN cho thuê tài sản của doanh nghiệp: khác biệt về căn cứ tính và nghĩa vụ kê khai."}
+{"id": "S-G3-007", "set": "stress", "group": "G3", "q": "So sánh thuế TNCN từ chuyển nhượng chứng khoán với thuế TNCN từ chuyển nhượng vốn góp: thuế suất, căn cứ tính và trách nhiệm khấu trừ."}
+{"id": "S-G3-008", "set": "stress", "group": "G3", "q": "Mapping: trong TNDN, 'doanh thu', 'chi phí', 'thu nhập khác', 'thu nhập miễn thuế' liên hệ nhau thế nào để ra 'thu nhập tính thuế'?"}
+{"id": "S-G3-009", "set": "stress", "group": "G3", "q": "So sánh ưu đãi thuế suất TNDN và miễn/giảm TNDN: điều kiện áp dụng, thời gian và cách theo dõi phần thu nhập ưu đãi."}
+{"id": "S-G3-010", "set": "stress", "group": "G3", "q": "So sánh việc bù trừ lỗ trong TNDN với (không) bù trừ lỗ trong một số loại thu nhập TNCN: vì sao khác nhau và hệ quả."}
+{"id": "S-G3-011", "set": "stress", "group": "G3", "q": "Đối chiếu thu nhập từ đầu tư vốn (TNCN) với thu nhập từ hoạt động tài chính (TNDN): cách xác định và thuế suất."}
+{"id": "S-G3-012", "set": "stress", "group": "G3", "q": "So sánh nghĩa vụ kê khai TNCN của tổ chức chi trả với nghĩa vụ quyết toán TNDN của doanh nghiệp: điểm giống và khác."}
+{"id": "S-G3-013", "set": "stress", "group": "G3", "q": "So sánh điều kiện miễn TNCN cho chuyển nhượng nhà ở duy nhất với điều kiện miễn/ưu đãi trong TNDN: khác nhau về logic chính sách."}
+{"id": "S-G3-014", "set": "stress", "group": "G3", "q": "So sánh xử lý khoản chi không có hóa đơn trong TNDN với xử lý khoản thu nhập không chứng minh được trong TNCN."}
+{"id": "S-G3-015", "set": "stress", "group": "G3", "q": "Mapping: Khi nào một khoản chi của doanh nghiệp vừa ảnh hưởng TNDN (chi phí được trừ) vừa ảnh hưởng TNCN (lợi ích chịu thuế của NLĐ)?"}
+{"id": "S-G4-001", "set": "stress", "group": "G4", "q": "Hãy chỉ ra căn cứ pháp lý (tên văn bản) quy định đồng thời: (1) điều kiện chi phí được trừ TNDN và (2) điều kiện thanh toán không dùng tiền mặt."}
+{"id": "S-G4-002", "set": "stress", "group": "G4", "q": "Nêu văn bản quy định cách xác định cá nhân cư trú và văn bản quy định cách tính thuế đối với cá nhân không cư trú. Trình bày mối liên hệ."}
+{"id": "S-G4-003", "set": "stress", "group": "G4", "q": "Chỉ ra căn cứ pháp lý về ưu đãi TNDN theo địa bàn và căn cứ pháp lý về ưu đãi theo ngành/lĩnh vực; giải thích khác nhau ở tiêu chí."}
+{"id": "S-G4-004", "set": "stress", "group": "G4", "q": "Căn cứ pháp lý về khống chế chi phí lãi vay: văn bản nào quy định nguyên tắc, và văn bản nào hướng dẫn cách tính chi tiết?"}
+{"id": "S-G4-005", "set": "stress", "group": "G4", "q": "Truy ngược căn cứ pháp lý về: khấu trừ 10% TNCN vãng lai + điều kiện làm cam kết + trách nhiệm lưu hồ sơ."}
+{"id": "S-G4-006", "set": "stress", "group": "G4", "q": "Nêu văn bản quy định về chuyển lỗ TNDN và văn bản quy định về quyết toán TNDN; chỉ rõ chỗ nào mô tả thời hạn chuyển lỗ."}
+{"id": "S-G4-007", "set": "stress", "group": "G4", "q": "Truy ngược căn cứ pháp lý miễn TNCN cho nhà ở duy nhất: yêu cầu chứng minh gì và nằm ở điều/khoản nào (nếu tài liệu có)?"}
+{"id": "S-G4-008", "set": "stress", "group": "G4", "q": "Căn cứ pháp lý về thuế TNCN cho thuê tài sản: văn bản nào nói về ngưỡng doanh thu và văn bản nào nói về kê khai nộp thuế?"}
+{"id": "S-G4-009", "set": "stress", "group": "G4", "q": "Truy ngược căn cứ pháp lý về chi phúc lợi được trừ TNDN và giới hạn/điều kiện của nó."}
+{"id": "S-G4-010", "set": "stress", "group": "G4", "q": "Căn cứ pháp lý về thuế TNCN với chuyển nhượng chứng khoán: văn bản nào quy định thuế suất và căn cứ tính?"}
+{"id": "S-G4-011", "set": "stress", "group": "G4", "q": "Truy ngược căn cứ pháp lý về thuế TNDN chuyển nhượng vốn: văn bản nào quy định công thức xác định thu nhập tính thuế?"}
+{"id": "S-G4-012", "set": "stress", "group": "G4", "q": "Nêu căn cứ pháp lý về thu nhập miễn thuế TNDN và chỉ ra nhóm thu nhập miễn thường bị nhầm với thu nhập chịu thuế."}
+{"id": "S-G4-013", "set": "stress", "group": "G4", "q": "Truy ngược văn bản quy định điều kiện khấu hao TSCĐ hợp lệ để được trừ TNDN; nêu điều kiện khiến khấu hao bị loại."}
+{"id": "S-G4-014", "set": "stress", "group": "G4", "q": "Căn cứ pháp lý về phân loại thu nhập tiền lương tiền công trong TNCN và căn cứ pháp lý về các khoản miễn thuế liên quan."}
+{"id": "S-G4-015", "set": "stress", "group": "G4", "q": "Truy ngược căn cứ pháp lý quy định trách nhiệm tổ chức trả thu nhập trong việc khấu trừ/kê khai và thời hạn thực hiện."}
